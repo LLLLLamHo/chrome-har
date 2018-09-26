@@ -1,5 +1,5 @@
 {
-  "name": "chrome-har",
+  "name": "zzc-chrome-har",
   "version": "0.4.1",
   "description": "Create HAR files from Chrome Debugging Protocol data.",
   "main": "index.js",
